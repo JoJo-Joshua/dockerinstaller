@@ -30,6 +30,8 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 
 sudo chmod +x /usr/local/bin/docker-compose
 
+rm -r get-docker.sh
+rm -r Dockerinstaller.sh
 clear
 
 echo ""
