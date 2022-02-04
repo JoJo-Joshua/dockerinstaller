@@ -20,6 +20,8 @@ apt update -y
 
 apt upgrade -y
 
+apt install git -y
+
 apt install curl -y
 
 curl -fsSL https://get.docker.com -o get-docker.sh
